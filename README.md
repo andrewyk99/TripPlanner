@@ -1,7 +1,7 @@
 # TripPlanner
 A simple app to plan my road trip with help of google maps and weather information
 
-Explore your next trip [here](https://ramumakkena.github.io/TripPlanner/)
+Explore your next trip [here](https://andrewyk99.github.io/TripPlanner/)
 
 ### Some screens before you hop on
 *   Homepage
